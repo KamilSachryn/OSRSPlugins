@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "kamiredsala",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "kamiredsala-1.1.1.jar",
+          "url": "kamiredsala-1.1.1.jar",
+          "size": 12931,
+          "sha512": "67f6ece4f053e133bcd902e1fcb14ab85908ce341474cdc4f15f736aa663c6b0aa628bcfc94eb3b77743e00cd10634fe4905408a83decd3bcb6add38b192fb66",
+          "sha256": "4544a473ceaaf556354817a1f28d790a43e4eec98b7e35eca156b0a6ec6fccc6",
+          "sha1": "58f95ed81bb16014f8afa85b657e9ac0b05ba2e0",
+          "md5": "3da140bcf937a64497724788b349a080"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kamiredsala-1.1.1.jar",
+          "url": "kamiredsala-1.1.1.jar",
+          "size": 12931,
+          "sha512": "67f6ece4f053e133bcd902e1fcb14ab85908ce341474cdc4f15f736aa663c6b0aa628bcfc94eb3b77743e00cd10634fe4905408a83decd3bcb6add38b192fb66",
+          "sha256": "4544a473ceaaf556354817a1f28d790a43e4eec98b7e35eca156b0a6ec6fccc6",
+          "sha1": "58f95ed81bb16014f8afa85b657e9ac0b05ba2e0",
+          "md5": "3da140bcf937a64497724788b349a080"
+        }
+      ]
+    }
+  ]
+}

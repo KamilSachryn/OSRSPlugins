@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.1
+Plugin-Id: kamicon-plugin
+Plugin-Provider: OpenOSRS
+Plugin-Dependencies: iutils-plugin
+Plugin-Description: Kami Con
+Plugin-License: 3-Clause BSD License
+

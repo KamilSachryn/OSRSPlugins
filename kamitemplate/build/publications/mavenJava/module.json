@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "kamitemplate",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "kamitemplate-1.1.1.jar",
+          "url": "kamitemplate-1.1.1.jar",
+          "size": 9724,
+          "sha512": "bfb84913821f3b28c10e51ef12a9ead9def680d481914f1764d1cc1b10ffe1546f7837291b5b4ec0a3a4db5a0fbcdb0205ea45d16f8526fc969e2e6bb26520e0",
+          "sha256": "f9d0fcb06d9d945a96f347ba00717f8665058c811d944c3c4d988ac4168f5cde",
+          "sha1": "6b579ba57a4bd178e598dce37bc2133581049578",
+          "md5": "cef6dd823ec0983b8e6397ea038ea8c3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kamitemplate-1.1.1.jar",
+          "url": "kamitemplate-1.1.1.jar",
+          "size": 9724,
+          "sha512": "bfb84913821f3b28c10e51ef12a9ead9def680d481914f1764d1cc1b10ffe1546f7837291b5b4ec0a3a4db5a0fbcdb0205ea45d16f8526fc969e2e6bb26520e0",
+          "sha256": "f9d0fcb06d9d945a96f347ba00717f8665058c811d944c3c4d988ac4168f5cde",
+          "sha1": "6b579ba57a4bd178e598dce37bc2133581049578",
+          "md5": "cef6dd823ec0983b8e6397ea038ea8c3"
+        }
+      ]
+    }
+  ]
+}

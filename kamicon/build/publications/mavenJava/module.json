@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "kamicon",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "kamicon-0.0.1.jar",
+          "url": "kamicon-0.0.1.jar",
+          "size": 12992,
+          "sha512": "593270d5cd1bde920e16db040b7224d583d95e8a4b7705ced49ce03dc9f7c92be0b6f5adef67492374fe15c1174e98a3733a5c824d722b41717112878ff4cc62",
+          "sha256": "c9b2e474fb090faa92a0bb50052a75e6f619c4d0d1fbfbd241ed21e3c1bdbf51",
+          "sha1": "996f1a8a22870ed653abdae13e571046a2d81d58",
+          "md5": "a2b06fb9b0eb4cceb3aa17ad8acfaacb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kamicon-0.0.1.jar",
+          "url": "kamicon-0.0.1.jar",
+          "size": 12992,
+          "sha512": "593270d5cd1bde920e16db040b7224d583d95e8a4b7705ced49ce03dc9f7c92be0b6f5adef67492374fe15c1174e98a3733a5c824d722b41717112878ff4cc62",
+          "sha256": "c9b2e474fb090faa92a0bb50052a75e6f619c4d0d1fbfbd241ed21e3c1bdbf51",
+          "sha1": "996f1a8a22870ed653abdae13e571046a2d81d58",
+          "md5": "a2b06fb9b0eb4cceb3aa17ad8acfaacb"
+        }
+      ]
+    }
+  ]
+}

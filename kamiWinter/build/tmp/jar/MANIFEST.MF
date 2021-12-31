@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 1.1.1
+Plugin-Id: kamiwinter-plugin
+Plugin-Provider: OpenOSRS
+Plugin-Dependencies: iutils-plugin
+Plugin-Description: 
+Plugin-License: 3-Clause BSD License
+

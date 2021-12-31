@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "kamiwinter",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "kamiwinter-1.1.1.jar",
+          "url": "kamiwinter-1.1.1.jar",
+          "size": 19392,
+          "sha512": "63e09d45ffab0a3a648f2a00481687d9ae49aa1afb1e26572ce153468ff836214b5b1057b4163d59071cb80735d0f0c0919e96ca256fa570362c532a574fbabe",
+          "sha256": "f85927a994c6d69198bf534f7956b0b48f832433aefd1c08a5388b44ecd308ee",
+          "sha1": "d8ae583be05165741250f0e465227143d0c7463a",
+          "md5": "e7779d6779ec16bdc6f17508e4fd089e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kamiwinter-1.1.1.jar",
+          "url": "kamiwinter-1.1.1.jar",
+          "size": 19392,
+          "sha512": "63e09d45ffab0a3a648f2a00481687d9ae49aa1afb1e26572ce153468ff836214b5b1057b4163d59071cb80735d0f0c0919e96ca256fa570362c532a574fbabe",
+          "sha256": "f85927a994c6d69198bf534f7956b0b48f832433aefd1c08a5388b44ecd308ee",
+          "sha1": "d8ae583be05165741250f0e465227143d0c7463a",
+          "md5": "e7779d6779ec16bdc6f17508e4fd089e"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+com/example/KamiRedSalamander/KamiRedSalamanderOverlay.java
+ com.example.KamiRedSalamander.KamiRedSalamanderOverlay
+com/example/KamiRedSalamander/KamiRedSalamanderPluginConfig.java
+ com.example.KamiRedSalamander.KamiRedSalamanderPluginConfig
+com/example/KamiRedSalamander/KamiRedSalamanderPlugin.java
+ com.example.KamiRedSalamander.KamiRedSalamanderPlugin
+ com.example.KamiRedSalamander.KamiRedSalamanderPlugin$1
+com/example/KamiRedSalamander/KamiRedSalamanderState.java
+ com.example.KamiRedSalamander.KamiRedSalamanderState

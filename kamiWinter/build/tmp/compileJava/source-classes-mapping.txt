@@ -1,0 +1,9 @@
+com/example/KamiWinter/KamiWinterOverlay.java
+ com.example.KamiWinter.KamiWinterOverlay
+com/example/KamiWinter/KamiWinterPluginConfig.java
+ com.example.KamiWinter.KamiWinterPluginConfig
+com/example/KamiWinter/KamiWinterPlugin.java
+ com.example.KamiWinter.KamiWinterPlugin
+ com.example.KamiWinter.KamiWinterPlugin$1
+com/example/KamiWinter/KamiWinterState.java
+ com.example.KamiWinter.KamiWinterState

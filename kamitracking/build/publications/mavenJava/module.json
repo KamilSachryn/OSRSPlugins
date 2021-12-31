@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "kamitracking",
+    "version": "1.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "kamitracking-1.1.2.jar",
+          "url": "kamitracking-1.1.2.jar",
+          "size": 143891,
+          "sha512": "8e01f33b61ce8aac5776ba38ad350f55c0b19888627059611b22be88317cc9d2fb0bf38e00ddf5a88a2b1cd9b6a57961a563021e99552bed3f7bfd5b678a831d",
+          "sha256": "90549cb7c42a09eaecd79e25745ae39a7a1e1d0418c35acd382a29d534c64716",
+          "sha1": "05abcc98694d0b6b22c6d4e8c31b0facebf99a8d",
+          "md5": "39cd84f5c5efff26bca919669ae1f9d7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kamitracking-1.1.2.jar",
+          "url": "kamitracking-1.1.2.jar",
+          "size": 143891,
+          "sha512": "8e01f33b61ce8aac5776ba38ad350f55c0b19888627059611b22be88317cc9d2fb0bf38e00ddf5a88a2b1cd9b6a57961a563021e99552bed3f7bfd5b678a831d",
+          "sha256": "90549cb7c42a09eaecd79e25745ae39a7a1e1d0418c35acd382a29d534c64716",
+          "sha1": "05abcc98694d0b6b22c6d4e8c31b0facebf99a8d",
+          "md5": "39cd84f5c5efff26bca919669ae1f9d7"
+        }
+      ]
+    }
+  ]
+}

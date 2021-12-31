@@ -1,0 +1,9 @@
+com/example/KamiTEMPLATE/KamiTEMPLATEOverlay.java
+ com.example.KamiTEMPLATE.KamiTEMPLATEOverlay
+com/example/KamiTEMPLATE/KamiTEMPLATEPluginConfig.java
+ com.example.KamiTEMPLATE.KamiTEMPLATEPluginConfig
+com/example/KamiTEMPLATE/KamiTEMPLATEPlugin.java
+ com.example.KamiTEMPLATE.KamiTEMPLATEPlugin
+ com.example.KamiTEMPLATE.KamiTEMPLATEPlugin$1
+com/example/KamiTEMPLATE/KamiTEMPLATEState.java
+ com.example.KamiTEMPLATE.KamiTEMPLATEState

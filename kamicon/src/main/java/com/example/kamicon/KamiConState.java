@@ -1,0 +1,12 @@
+package com.example.kamicon;
+
+public enum KamiConState
+{
+    TIMEOUT,
+    ITERATING,
+    MOVING,
+    CRASH,
+    REMOVE_CAPE_CHATBOX,
+    REMOVE_CAPE, BUILD_CAPE_WIDGET, BUILD_CAPE, WAITING_FOR_PLANKS, CONFIRM_BUTLER, TALK_TO_BUTLER
+
+}

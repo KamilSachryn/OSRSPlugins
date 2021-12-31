@@ -1,0 +1,9 @@
+com/example/kamicon/KamiConOverlay.java
+ com.example.kamicon.KamiConOverlay
+com/example/kamicon/KamiConPluginConfig.java
+ com.example.kamicon.KamiConPluginConfig
+com/example/kamicon/KamiConPlugin.java
+ com.example.kamicon.KamiConPlugin
+ com.example.kamicon.KamiConPlugin$1
+com/example/kamicon/KamiConState.java
+ com.example.kamicon.KamiConState
